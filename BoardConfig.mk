@@ -30,7 +30,7 @@
 TARGET_OTA_ASSERT_DEVICE := d2att
 
 # Kernel
-TARGET_KERNEL_SOURCE		:= kernel/samsung/d2
+TARGET_PREBUILT_KERNEL		:= device/samsung/d2att/prebuilt/kernel
 TARGET_KERNEL_CONFIG		:= cyanogen_d2_defconfig
 BOARD_KERNEL_CMDLINE        := androidboot.hardware=qcom user_debug=31
 BOARD_KERNEL_BASE           := 0x80200000
