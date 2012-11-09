@@ -1,19 +1,27 @@
 [
   {
-    "repository": "aocp_device_samsung_d2att"
+    "account":     "TheCollective"
+    "repository":  "aocp_device_samsung_d2att"
     "target_path": "device/samsung/d2att"
+    "revision":    "jellybean"
   },
   {
-    "repository": "aocp_device_samsung_msm8960-common",
+    "account":     "TheCollective"
+    "repository":  "aocp_device_samsung_msm8960-common",
     "target_path": "device/samsung/msm8960-common"
+    "revision":    "jellybean"
   },
   {
-    "repository": "aocp_device_samsung_d2-common",
+    "account":     "TheCollective"
+    "repository":  "aocp_device_samsung_d2-common",
     "target_path": "device/samsung/d2-common"
+    "revision":    "jellybean"
   },
   {
-    "repository": "android_kernel_samsung_d2",
+    "account":     "TheCollective"
+    "repository":  "android_kernel_samsung_d2",
     "target_path": "kernel/samsung/d2"
+    "revision":    "jellybean"
   }
 ]
 
