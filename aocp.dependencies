@@ -18,6 +18,10 @@
   {
     "repository": "proprietary_vendor_d2att",
     "target_path": "vendor/samsung/d2att"
+  },
+  {
+    "repository": "proprietary_vendor_d2-common",
+    "target_path": "vendor/samsung/d2-common"
   }
 ]
 
