@@ -14,7 +14,6 @@
   {
     "repository": "CyanogenMod/android_kernel_samsung_d2",
     "target_path": "kernel/samsung/d2"
-    "branch": "cm-10.1"
   },
   {
     "repository": "proprietary_vendor_d2att",
