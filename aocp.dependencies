@@ -22,6 +22,10 @@
   {
     "repository": "proprietary_vendor_d2-common",
     "target_path": "vendor/samsung/d2-common"
+  },
+  {
+    "repository": "android_hardware_samsung",
+    "target_path": "hardware/samsung"
   }
 ]
 
